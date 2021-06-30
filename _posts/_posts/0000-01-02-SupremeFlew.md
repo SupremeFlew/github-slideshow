@@ -1,6 +1,5 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-Your text
+Console.WriteLine("dumb ass");
 Use the left arrow to go back!
